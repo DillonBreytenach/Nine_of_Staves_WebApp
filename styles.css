@@ -1,0 +1,128 @@
+.HUD {
+    background-color: aquamarine;
+
+    position: absolute;
+    top: 0%;
+    height: 20%;
+    width: 100%;
+}
+.Opponent_player_spread {
+    background-color: aqua;
+
+
+    
+    position: absolute;
+    width: 60%;
+    height: 30%;
+    top:    25%;
+    right: 5%;
+}
+.Facing_player_spread {
+    background-color: greenyellow;
+
+
+
+    position: absolute;
+    width: 60%;
+    height: 30%;
+    top:    65%;
+    right: 5%;
+
+}
+
+.Playable_deck {
+    background-color: blue;
+
+
+
+    position: absolute;
+    width: 25%;
+    height: 35%;
+
+    top: 25%;
+    left: 5%;
+    bottom: 45%;
+}
+
+.Throw_out_deck {
+    background-color: green;
+
+
+    position: absolute;
+    width: 25%;
+    height: 30%;
+
+    bottom: 5%;
+    left: 5%;
+
+}
+
+.Background {
+    background-color: #111;
+}
+
+
+
+
+.cnt {
+    color: aqua;
+}
+
+
+
+
+
+
+#FT_1 {
+    position: absolute;
+    left: 2%;
+}
+
+#FT_2 {
+    position: absolute;
+    left: 4%;
+}
+
+
+#FT_3 {
+    position: absolute;
+    left: 6%;
+}
+
+#FT_C {
+    position: absolute;
+    left: 8%;
+}
+
+#R_A_G {
+    position: absolute;
+    left: 10%;
+}
+
+#R_H_G {
+    position: absolute;
+    left: 12%;
+}
+
+#R_Y_R {
+    position: absolute;
+    left: 14%;
+}
+
+
+
+
+h1 {
+    color: limegreen;
+}
+h2 {
+    color: white;
+}
+
+body {
+    background-color: rgb(53, 47, 47);
+   }
+
+p1 {
+    color: blue;
+}
